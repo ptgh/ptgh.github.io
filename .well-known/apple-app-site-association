@@ -1,0 +1,4 @@
+{ "applinks": { "details": [ {
+    "appIDs": ["29A7G262Y3.com.paultristan.cairn"],
+    "components": [ { "/": "/cairn/share", "comment": "Cairns someone shared with you" } ]
+} ] } }
